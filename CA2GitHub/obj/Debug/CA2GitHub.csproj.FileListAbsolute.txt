@@ -1,0 +1,6 @@
+C:\Users\Sanja\Desktop\- NCI\- Web design\week 7 - CA2\CA2GitHub\CA2GitHub\bin\CA2GitHub.dll.config
+C:\Users\Sanja\Desktop\- NCI\- Web design\week 7 - CA2\CA2GitHub\CA2GitHub\bin\CA2GitHub.dll
+C:\Users\Sanja\Desktop\- NCI\- Web design\week 7 - CA2\CA2GitHub\CA2GitHub\bin\CA2GitHub.pdb
+C:\Users\Sanja\Desktop\- NCI\- Web design\week 7 - CA2\CA2GitHub\CA2GitHub\obj\Debug\CA2GitHub.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\- NCI\- Web design\week 7 - CA2\CA2GitHub\CA2GitHub\obj\Debug\CA2GitHub.dll
+C:\Users\Sanja\Desktop\- NCI\- Web design\week 7 - CA2\CA2GitHub\CA2GitHub\obj\Debug\CA2GitHub.pdb
